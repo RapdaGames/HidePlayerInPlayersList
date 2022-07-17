@@ -1,3 +1,2 @@
 # HidePlayerInPlayersList
-Admins can choose to show players in the same world or only show yourself!
-This plugin is under test and further construction.
+管理员可以选择显示同一个世界的玩家或者只显示你自己！这个插件正在测试和进一步建设中。
